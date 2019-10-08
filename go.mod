@@ -1,4 +1,5 @@
 module gitlab.timmertech.nl/go/interpolate
+module github.com/gjrtimmer/interpolate
 
 go 1.12
 
