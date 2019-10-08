@@ -1,1 +1,1 @@
-module github.com/buildkite/interpolate
+module gitlab.timmertech.nl/go/interpolate
