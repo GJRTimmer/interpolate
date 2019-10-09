@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/buildkite/interpolate"
+	"gitlab.timmertech.nl/go/interpolate"
 )
 
 func ExampleInterpolate() {

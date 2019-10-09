@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/buildkite/interpolate"
+	"gitlab.timmertech.nl/go/interpolate"
 )
 
 func TestParser(t *testing.T) {

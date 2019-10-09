@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/buildkite/interpolate"
+	"gitlab.timmertech.nl/go/interpolate"
 )
 
 func main() {
