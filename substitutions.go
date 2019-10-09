@@ -3,7 +3,7 @@ package interpolate
 import (
 	"strings"
 
-	"github.com/drone/envsubst/path"
+	"gitlab.timmertech.nl/go/envsubst/path"
 )
 
 // Imported from drone.io:
